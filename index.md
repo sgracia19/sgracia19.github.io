@@ -10,7 +10,7 @@ distinct fighting styles. Conducted feature engineering, correlation analysis, a
 segmentation quality using Silhouette scores and within-cluster variance. Conducted matchup analysis to quantify stylistic
 advantages, revealing trends in performance across fight styles and weight classes. Future work aims to expand dataset for
 more robust classifications and to leverage cluster labels in predictive modeling.
-<img src="/images/Heat Map UFC Segmentation.png" alt="Heat Map UFC Segmentation" width="60%">
+<img src="/images/Heat Map UFC Segmentation.png" alt="Heat Map UFC Segmentation" width="80%">
 
 
 ---
