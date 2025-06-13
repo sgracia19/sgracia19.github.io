@@ -2,33 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Clustering
 
-[Project 1 Title](/sample_page)
+[The Ultimate Statitical Fighter: UFC Fighter Segmentation](https://github.com/sgracia19/UFC-FIghter-Segmentation/blob/main/ufc-fighter-style-segmentation.ipynb)
+Developed a data-driven clustering model to analyze fighter characteristics, fight outcomes, and fight metrics to identify
+distinct fighting styles. Conducted feature engineering, correlation analysis, and visualization to refine insights. Evaluated
+segmentation quality using Silhouette scores and within-cluster variance. Conducted matchup analysis to quantify stylistic
+advantages, revealing trends in performance across fight styles and weight classes. Future work aims to expand dataset for
+more robust classifications and to leverage cluster labels in predictive modeling.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
