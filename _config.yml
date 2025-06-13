@@ -1,5 +1,5 @@
 title: Sebastian Gracia Guzman # your name (or website title) here
-logo: "images/Turtle_Head_Peak.jpg" # your photo (or logo) here
+logo: <img src="/images/Turtle_Head_Peak.jpg" alt="Turtle Head Peak" width="200"> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Mathematician by training. Data Scientist by trade.
   Interested in combat sports, surfing, and urbanism! 
