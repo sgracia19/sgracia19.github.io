@@ -15,10 +15,11 @@ more robust classifications and to leverage cluster labels in predictive modelin
 
 ---
 ### Reinforcment Learning
-
 [Master's Research Project: Policy Gradient Methods in Deep Reinforcement Learning](https://github.com/sgracia19/sgracia19.github.io/blob/main/Sebastian_Gracia_MS_project.pdf)
-My master's research project gives an overview of the math theory behind certain policy based methods in reinforcement learning.
+My master's research project gives an overview of the mathematical theory behind certain policy based methods in reinforcement learning. The project covers the basics of Reinforcement Learning, Policy Gradient Methods, and implementations on selected environments.  For a condensed, slightly less technical outline of my project see my [project defence slides]().
+
+
 ---
----
+[Rainbow Road: Autonomous Driving using DQN Variants]() 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
