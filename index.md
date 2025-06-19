@@ -11,21 +11,22 @@ more robust classifications and to leverage cluster labels in predictive modelin
 <img src="/images/Heat Map UFC Segmentation.png" alt="Heat Map UFC Segmentation" width="80%">
 
 ---
+
 ### Reinforcment Learning
 [Master's Research Project: Policy Gradient Methods in Deep Reinforcement Learning](projects\Sebastian_Gracia_MS_project.pdf)
 My master's research project gives an overview of the mathematical theory behind certain policy based methods in reinforcement learning. The project covers the basics of Reinforcement Learning, including MDPs, the agent-environment framework, and value functions. My research project goes on to cover the Policy Gradient Theorem and how it allows is Policy Gradient alrogirthms for reinforcement learning. My project then discuss a few selected algorithms and implementations on selected environments. For a condensed, slightly less technical outline of my project, see my [project defense slides]().
 <img src="/images/HalfCheetahEnv.JPG" alt="Half Cheetah Pybullet Env" width="80%">
 
-[Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.pdf) 
+[Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.ipynb).[Write Up Here](projects\RainbowRoad.pdf)
 The reinforcement learning algorithm DQN introduced by Minh et. al has many different variants which
 improve performance. This project implements the ideas presented by Matteo Hessel et al. showing that combinging many of the variants yields superior performance across different benchmarks than any single variant. The aim of this project was
 to implement Rainbow DQN in a simple autonomous driving environment
-and compare results obtained to results obtained to the paper. Underlying project code is currently unavailable due to losing access to the original account.😒
+and compare results obtained to results obtained to the paper. 
 <img src="/images/highway-env.JPG" alt="Highway Environment" width="80%">
 
 ---
 ### Optimization
-[Online Optimization using Greedy Projection Algorithm](projects\Online Optimization Project.pdf)
+[Online Optimization using Greedy Projection Algorithm](projects\Online_Optimization.pdf)
 Online convex programming is a form of convex programming in which a convex
 set is known ahead of time. At each iteration a point is selected from the convex
 set then a repeated minimization problem is solved at the point. At each step
