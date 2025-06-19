@@ -35,8 +35,16 @@ costs incurred in an online convex problem. It is called the Greedy Projection
 Algorithm. In this project, we introduce the background and properties of this
 algorithm, then apply it by hand and numerically via MATLAB code to a set
 of Online optimization problems, then discuss the results of each.
-
 <img src="/images/Optimization_Thumbnail.jpg" alt="Optimization of Nonlinear Function" width="50%" height="50%">
+
+
+[Suduko Solver Using Linear Programming](https://github.com/sgracia19/sgracia19.github.io/blob/main/images/Sudoku.pdf)
+Sudoku problems can be modeled as a sparse linear system of equations. We can formu-
+late the Sudoku ruleset as an underdetermined linear system and the objective as an $l_{0}$ norm
+minimization problem. For it is hard to solve an $l_{0}$ norm minimization problem in general, we
+relax the objective function to a $l_{1}$ norm minimization problem.
+In this project, we built a linear programming model and use this model to solve sudoku puzzles at differing difficulty levels and discuss results.
+
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
