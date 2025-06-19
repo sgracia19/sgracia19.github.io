@@ -1,15 +1,13 @@
-title: Sebastian Gracia Guzman # your name (or website title) here
-logo: <img src="/images/Turtle_Head_Peak.jpg" alt="Turtle Head Peak" width="200"> # your photo (or logo) here
+title: Sebastian Gracia # your name (or website title) here
+logo: /images/Turtle_Head_Peak.jpg # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Mathematician by training. Data Scientist by trade.
-  Interested in combat sports, surfing, and urbanism! 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sebastian-gracia-ds/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://www.kaggle.com/sgracia19/">View My Kaggle Profile</a> 
-  <br><br>
+  Mathematician by training. Data Scientist by trade.  
+  Interested in combat sports, piano, and urbanism!  
   
+  [View My LinkedIn Profile](https://www.linkedin.com/in/sebastian-gracia-ds/)  
+  
+  [View My Kaggle Profile](https://www.kaggle.com/sgracia19/)  
+  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
