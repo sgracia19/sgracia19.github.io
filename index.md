@@ -21,12 +21,12 @@ My master's research project gives an overview of the mathematical theory behind
 
 <img src="/images/HalfCheetahEnv.JPG" alt="Half Cheetah Pybullet Env" width="80%">
 
-<video width="640" controls>
-  <source src="/images/Pong_Trained_Agent.mp4" type="video/mp4" width="40%" height = "50%">
+<video width="340" controls>
+  <source src="/images/Pong_Trained_Agent.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-#### [Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.ipynb).[Write Up Here](projects\RainbowRoad.pdf)
+#### [Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.ipynb). [Write Up Here](projects\RainbowRoad.pdf)
 
 The reinforcement learning algorithm DQN introduced by Minh et. al has many different variants which
 improve performance. This project implements the ideas presented by Matteo Hessel et al. showing that combinging many of the variants yields superior performance across different benchmarks than any single variant. The aim of this project was
