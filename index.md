@@ -19,12 +19,13 @@ more robust classifications and to leverage cluster labels in predictive modelin
 
 My master's research project gives an overview of the mathematical theory behind certain policy based methods in reinforcement learning. The project covers the basics of Reinforcement Learning, including MDPs, the agent-environment framework, and value functions. My research project goes on to cover the Policy Gradient Theorem and how it allows is Policy Gradient algorithms for reinforcement learning. My project then discuss a few selected algorithms and implementations on selected environments. For a condensed, slightly less technical outline of my project, see my [project defense slides](projects\MS_Defense_Slides.pdf).
 
-<img src="/images/HalfCheetahEnv.JPG" alt="Half Cheetah Pybullet Env" width="80%">
-
-<video width="340" controls>
-  <source src="/images/Pong_Trained_Agent.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+    <img src="/images/HalfCheetahEnv.JPG" alt="Half Cheetah Pybullet Env" style="width: 48%; max-width: 100%; height: auto;">
+    <video style="width: 48%; max-width: 100%; height: auto;" controls>
+        <source src="/images/Pong_Trained_Agent.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 #### [Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.ipynb). [Write Up Here](projects\RainbowRoad.pdf)
 
