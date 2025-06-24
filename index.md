@@ -2,7 +2,7 @@
 ---
 ### Clustering
 
-#### [The Ultimate Statistical Fighter: UFC Fighter Segmentation](projects\ufc-fighter-style-segmentation.ipynb)
+#### [The Ultimate Statistical Fighter: UFC Fighter Segmentation](https://nbviewer.org/urls/sgracia19.github.io/projects/ufc-fighter-style-segmentation.ipynb)
 
 Developed a data-driven clustering model to analyze fighter characteristics, fight outcomes, and fight metrics to identify
 distinct fighting styles. Conducted feature engineering, correlation analysis, and visualization to refine insights. Evaluated
@@ -30,7 +30,7 @@ My master's research project gives an overview of the mathematical theory behind
     </video>
 </div>
 
-#### [Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.pdf). [Code Here](projects\RainbowRoad.ipynb)
+#### [Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.pdf). [Code Here](https://nbviewer.org/urls/sgracia19.github.io/projects/RainbowRoad.ipynb)
 
 The reinforcement learning algorithm DQN introduced by Minh et. al has many different variants which
 improve performance. This project implements the ideas presented by Matteo Hessel et al. showing that combinging many of the variants yields superior performance across different benchmarks than any single variant. The aim of this project was
