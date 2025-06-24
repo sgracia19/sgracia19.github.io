@@ -37,7 +37,8 @@ improve performance. This project implements the ideas presented by Matteo Hesse
 to implement Rainbow DQN in a simple autonomous driving environment
 and compare results obtained to results obtained to the paper.
 
-<img src="/images/highway-env.JPG" alt="Highway Environment" width="80%">
+<img src="/images/highway.gif" alt="Highway Environment" width="80%">
+
 
 ---
 ### Optimization
