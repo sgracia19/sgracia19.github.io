@@ -7,15 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" style="width:24px;height:24px;vertical-align:middle;">
     </a>
     <a href="https://www.kaggle.com/sgracia19/" target="_blank" title="Kaggle">
-      <img src="https://github.com/sgracia19/sgracia19.github.io/blob/main/images/kaggle_icon.png" alt="Kaggle" style="width:24px;height:24px;vertical-align:middle;">
+      <img src="images\kaggle_icon.png" alt="Kaggle" style="width:24px;height:24px;vertical-align:middle;">
      </a>
-    <a href="https://github.com/sgracia19" target="_blank" title="GitHub">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" style="width:24px;height:24px;vertical-align:middle;">
-    </a>
     <a href="mailto:graciasebastian@outlook.com" title="Email">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mail.svg" alt="Email" style="width:24px;height:24px;vertical-align:middle;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minutemailer.svg" alt="Email" style="width:24px;height:24px;vertical-align:middle;">
     </a>
-
     <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
