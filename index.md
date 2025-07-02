@@ -2,12 +2,13 @@
 ---
 ### Regression
 
-#### [House Price Prediction Intervals](https://nbviewer.org/github/sgracia19/sgracia19.github.io/blob/main/projects/Kaggle_Competitions/House_Price_Intervals/Price_Interval_Prediction.ipynb)
+#### [Predicting Housing Sale Price Intervals](https://nbviewer.org/github/sgracia19/sgracia19.github.io/blob/main/projects/Kaggle_Competitions/House_Price_Intervals/Price_Interval_Prediction.ipynb)
 
 In this project, I tackled a Kaggle competition focused on predicting house sale prices with the narrowest possible prediction intervals, rather than just point estimates. I engineered features from raw sale and property data, handled missing values, and encoded categorical variables to prepare the dataset for modeling. My core approach used a pytorch to build a neural network that outputs lower and upper bounds for each prediction, trained with the Winkler loss to directly optimize interval quality and coverage. The model achieved 89.8% empirical coverage, closely matching the nominal 90% target. To further improve performance, I experimented with architectural changes, regularization, and feature engineering. 
 
 <img src="/images/Prediction_Interval.png" alt= "Housing Price Interval" width="80%">
 ---
+
 ### Clustering
 
 #### [The Ultimate Statistical Fighter: UFC Fighter Segmentation](https://nbviewer.org/urls/sgracia19.github.io/projects/ufc-fighter-style-segmentation.ipynb)
