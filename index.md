@@ -67,11 +67,8 @@ of Online optimization problems, then discuss the results of each.
 
 #### [Sudoku Solver Using Linear Programming](projects\Sudoku.pdf)
 
-Sudoku problems can be modeled as a sparse linear system of equations. We can formu-
-late the Sudoku ruleset as an underdetermined linear system and the objective as an $l_{0}$ norm
-minimization problem. For it is hard to solve an $l_{0}$ norm minimization problem in general, we
-relax the objective function to a $l_{1}$ norm minimization problem.
-In this project, we built a linear programming model and use this model to solve sudoku puzzles at differing difficulty levels and discuss results.
+Sudoku problems can be modeled as a sparse linear system of equations. We can formulate the Sudoku ruleset as an underdetermined linear system and the objective as an $\ell_0$ norm minimization problem. Since it is hard to solve an $\ell_0$ norm minimization problem in general, we
+relax the objective function to a $\ell_1$ norm minimization problem.
 
 <img src="/images/Sudoku_Thumbnail.jpg" alt="Example of Sudoku Puzzle" width="30%" >
 
