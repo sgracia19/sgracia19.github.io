@@ -11,6 +11,16 @@ In this project, I tackled a Kaggle competition focused on predicting house sale
 
 ### Clustering
 
+#### [The Ultimate Statistical Fighter v2: UFC Fighter Segmentation Revisited](https://github.com/sgracia19/UFC_Fighter_Segmentation)
+
+This project is a revisit of an earlier analysis, rebuilt from the ground up with a richer dataset and a stronger emphasis on software engineering best practices. Using a comprehensive dataset of historical UFC fight results, I engineered a robust set of per-fighter features such including striking accuracy, takedown rates, submission threats, and fight pace metrics. Unlike the original project, this iteration prioritizes modular, reusable Python code with clean separation between data ingestion, processing, and analysis, making the pipeline easier to maintain and extend.
+The goal is to uncover meaningful fighter archetypes through unsupervised machine learning: from aggressive knockout artists to technical grapplers and decision-focused point fighters. 
+Future work aims to bring these findings to life through an interactive web application, where users can explore fighter clusters visually, compare stylistic profiles side-by-side, and discover which fighters share the most similar fighting styles — making the analysis accessible and engaging beyond the notebook.
+
+<img src="images\UFC_Radar_Plot.png" alt= "UFC Fighter Radar Plot" width="80%">
+
+
+
 #### [The Ultimate Statistical Fighter: UFC Fighter Segmentation](https://nbviewer.org/urls/sgracia19.github.io/projects/ufc-fighter-style-segmentation.ipynb)
 
 Developed a data-driven clustering model to analyze fighter characteristics, fight outcomes, and fight metrics to identify
