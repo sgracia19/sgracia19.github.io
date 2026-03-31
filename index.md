@@ -1,3 +1,31 @@
+## Skills & Tools
+ 
+<div style="margin-bottom: 8px;">
+  <strong>Languages</strong><br>
+  <span style="font-size:13px;">Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; R &nbsp;·&nbsp; MATLAB</span>
+</div>
+ 
+<div style="margin-bottom: 8px;">
+  <strong>ML / Modeling</strong><br>
+  <span style="font-size:13px;">PyTorch &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; XGBoost &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; OpenAI API</span>
+</div>
+ 
+<div style="margin-bottom: 8px;">
+  <strong>Analytics</strong><br>
+  <span style="font-size:13px;">A/B Testing &nbsp;·&nbsp; Causal Inference &nbsp;·&nbsp; Time Series &nbsp;·&nbsp; Customer Segmentation &nbsp;·&nbsp; Forecasting</span>
+</div>
+ 
+<div style="margin-bottom: 8px;">
+  <strong>Visualization</strong><br>
+  <span style="font-size:13px;">Tableau &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; matplotlib &nbsp;·&nbsp; seaborn &nbsp;·&nbsp; ggplot</span>
+</div>
+ 
+<div style="margin-bottom: 24px;">
+  <strong>Certifications</strong><br>
+  <span style="font-size:13px;">MLOps Essentials: Model Development and Integration &nbsp;·&nbsp; LinkedIn Learning</span>
+</div>
+ 
+---
 ## Projects
 ---
 ### Regression
@@ -17,7 +45,7 @@ This project is a revisit of an earlier analysis, rebuilt from the ground up wit
 The goal is to uncover meaningful fighter archetypes through unsupervised machine learning: from aggressive knockout artists to technical grapplers and decision-focused point fighters. 
 Future work aims to bring these findings to life through an interactive web application, where users can explore fighter clusters visually, compare stylistic profiles side-by-side, and discover which fighters share the most similar fighting styles — making the analysis accessible and engaging beyond the notebook.
 
-<img src="images\UFC_Radar_Plot.png" alt= "UFC Fighter Radar Plot" width="80%">
+<img src="images/UFC_Radar_Plot.png" alt= "UFC Fighter Radar Plot" width="80%">
 
 
 
@@ -34,9 +62,9 @@ more robust classifications and to leverage cluster labels in predictive modelin
 ---
 
 ### Reinforcement Learning
-#### [Master's Research Project: Policy Gradient Methods in Deep Reinforcement Learning](projects\Sebastian_Gracia_MS_project.pdf)
+#### [Master's Research Project: Policy Gradient Methods in Deep Reinforcement Learning](projects/Sebastian_Gracia_MS_project.pdf)
 
-My master's research project gives an overview of the mathematical theory behind certain policy based methods in reinforcement learning. The project covers the basics of Reinforcement Learning, including MDPs, the agent-environment framework, and value functions. My research project goes on to cover the Policy Gradient Theorem and how it allows is Policy Gradient algorithms for reinforcement learning. My project then discuss a few selected algorithms and implementations on selected environments. For a condensed, slightly less technical outline of my project, see my [project defense slides](projects\MS_Defense_Slides.pdf).
+My master's research project gives an overview of the mathematical theory behind certain policy based methods in reinforcement learning. The project covers the basics of Reinforcement Learning, including MDPs, the agent-environment framework, and value functions. My research project goes on to cover the Policy Gradient Theorem and how it allows is Policy Gradient algorithms for reinforcement learning. My project then discuss a few selected algorithms and implementations on selected environments. For a condensed, slightly less technical outline of my project, see my [project defense slides](projects/MS_Defense_Slides.pdf).
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
     <video style="width: 48%; max-width: 100%; height: auto;" controls autoplay>
@@ -49,7 +77,7 @@ My master's research project gives an overview of the mathematical theory behind
     </video>
 </div>
 
-#### [Rainbow Road: Autonomous Driving using DQN Variants](projects\RainbowRoad.pdf). [Code Here](https://nbviewer.org/urls/sgracia19.github.io/projects/RainbowRoad.ipynb)
+#### [Rainbow Road: Autonomous Driving using DQN Variants](projects/RainbowRoad.pdf). [Code Here](https://nbviewer.org/urls/sgracia19.github.io/projects/RainbowRoad.ipynb)
 
 The reinforcement learning algorithm DQN introduced by Minh et. al has many different variants which
 improve performance. This project implements the ideas presented by Matteo Hessel et al. showing that combinging many of the variants yields superior performance across different benchmarks than any single variant. The aim of this project was
@@ -61,7 +89,7 @@ and compare results obtained to results obtained to the paper.
 
 ---
 ### Optimization
-#### [Online Optimization using Greedy Projection Algorithm](projects\Online_Optimization.pdf)
+#### [Online Optimization using Greedy Projection Algorithm](projects/Online_Optimization.pdf)
 
 Online convex programming is a form of convex programming in which a convex
 set is known ahead of time. At each iteration a point is selected from the convex
@@ -75,7 +103,7 @@ of Online optimization problems, then discuss the results of each.
 
 <img src="/images/Optimization_Thumbnail.jpg" alt="Optimization of Nonlinear Function" width="50%">
 
-#### [Sudoku Solver Using Linear Programming](projects\Sudoku.pdf)
+#### [Sudoku Solver Using Linear Programming](projects/Sudoku.pdf)
 
 Sudoku problems can be modeled as a sparse linear system of equations. We can formulate the Sudoku ruleset as an underdetermined linear system and the objective as an $\ell_0$ norm minimization problem. Since it is hard to solve an $\ell_0$ norm minimization problem in general, we
 relax the objective function to a $\ell_1$ norm minimization problem.
