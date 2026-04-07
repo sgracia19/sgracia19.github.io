@@ -1,28 +1,31 @@
 ## Skills & Tools
- 
-<div style="margin-bottom: 8px;">
-  <strong>Languages</strong><br>
-  <span style="font-size:13px;">Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; R &nbsp;·&nbsp; MATLAB</span>
+
+<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 12px 32px; margin-bottom: 28px;">
+
+  <div>
+    <p style="margin:0 0 4px; font-size:11px; text-transform:uppercase; letter-spacing:0.08em; color:#888;">Languages</p>
+    <p style="margin:0; font-size:13px;">Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; R &nbsp;·&nbsp; MATLAB</p>
+  </div>
+
+  <div>
+    <p style="margin:0 0 4px; font-size:11px; text-transform:uppercase; letter-spacing:0.08em; color:#888;">ML / Modeling</p>
+    <p style="margin:0; font-size:13px;">PyTorch &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; XGBoost &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; OpenAI API</p>
+  </div>
+
+  <div>
+    <p style="margin:0 0 4px; font-size:11px; text-transform:uppercase; letter-spacing:0.08em; color:#888;">Analytics</p>
+    <p style="margin:0; font-size:13px;">A/B Testing &nbsp;·&nbsp; Causal Inference &nbsp;·&nbsp; Time Series &nbsp;·&nbsp; Segmentation &nbsp;·&nbsp; Forecasting</p>
+  </div>
+
+  <div>
+    <p style="margin:0 0 4px; font-size:11px; text-transform:uppercase; letter-spacing:0.08em; color:#888;">Visualization</p>
+    <p style="margin:0; font-size:13px;">Tableau &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; matplotlib &nbsp;·&nbsp; seaborn &nbsp;·&nbsp; ggplot</p>
+  </div>
+
 </div>
- 
-<div style="margin-bottom: 8px;">
-  <strong>ML / Modeling</strong><br>
-  <span style="font-size:13px;">PyTorch &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; XGBoost &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; OpenAI API</span>
-</div>
- 
-<div style="margin-bottom: 8px;">
-  <strong>Analytics</strong><br>
-  <span style="font-size:13px;">A/B Testing &nbsp;·&nbsp; Causal Inference &nbsp;·&nbsp; Time Series &nbsp;·&nbsp; Customer Segmentation &nbsp;·&nbsp; Forecasting</span>
-</div>
- 
-<div style="margin-bottom: 8px;">
-  <strong>Visualization</strong><br>
-  <span style="font-size:13px;">Tableau &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; matplotlib &nbsp;·&nbsp; seaborn &nbsp;·&nbsp; ggplot</span>
-</div>
- 
-<div style="margin-bottom: 24px;">
-  <strong>Certifications</strong><br>
-  <span style="font-size:13px;">MLOps Essentials: Model Development and Integration &nbsp;·&nbsp; LinkedIn Learning</span>
+
+<div style="background:#f6f8fa; border-left:3px solid #0366d6; padding:10px 14px; margin-bottom:28px; font-size:13px;">
+  <strong>Certification:</strong> MLOps Essentials: Model Development and Integration &nbsp;·&nbsp; LinkedIn Learning
 </div>
  
 ---
